@@ -1,3 +1,7 @@
+- [ ] add text chunker
+- [ ] look into better mouth animation
+- [ ] look into changing voice pitch
+
 features
 - [ ] speech length shows progress bar (easy with an mp3 file)
 - [ ] fake video player window (maybe)
@@ -37,7 +41,7 @@ Sidetracked, cutting my nails real quick, my hands are dry af... gross
 
 I will engage the Kornholio and make this bare minimal MVP
 
-
+---
 
 ### 05/08/2024
 
