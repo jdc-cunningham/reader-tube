@@ -7,6 +7,38 @@ features
 - [ ] the anime character eats the text, literally takes it off the DOM page now that would be neat
   - this would be an injected extension though
 
+### 05/09/2024
+
+9:38 PM
+
+My life is imploding
+
+But let's work on this random app
+
+Feeling of "accomplishment" before I return back to my living nightmare of a job
+
+It's not terrible... I'm just not paid enough for my debts and it's doing the same shit over and over again
+
+But... my body has gotten fit again which I like that... but I question is it for me or to try and get someone to notice me
+
+This and more at 6
+
+9:41 PM
+
+the audio alert thing I have done before in my "crypto-alerts-and-tools" project
+
+I cannot focus at all right now, micro binge ate
+
+feeling down, worked out though at least, keeping that habit going
+
+9:57 PM
+
+Sidetracked, cutting my nails real quick, my hands are dry af... gross
+
+I will engage the Kornholio and make this bare minimal MVP
+
+
+
 ### 05/08/2024
 
 7:04 PM
