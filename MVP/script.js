@@ -38,9 +38,15 @@ const say = (msg) => {
     speech = msg;
   }
 
+  stopAnimation = false;
+
   const utterance = new SpeechSynthesisUtterance(speech);
   utterance.voice = voices[4]; // can dump voices to pick
   speechSynthesis.speak(utterance);
+  animateSpeech();
+  setTimeout(() => {
+    stopAnimation = true;
+  }, 10000);
   // speechSynthesis.cancel(); // this means it iwll not say it all
 }
 
