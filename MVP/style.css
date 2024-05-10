@@ -2,3 +2,60 @@ body * {
   box-sizing: border-box;
   font-family: 'roboto', sans-serif;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  padding: 2rem;
+}
+
+.container__character {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 76%;
+  border: 4px solid #282828;
+  border-radius: 8px;
+}
+
+.container__text-input {
+  position: relative;
+  width: 100%;
+  height: 20%;
+  border: 4px solid #282828;
+  border-radius: 8px;
+}
+
+.container__text-input textarea {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+
+.container__text-input button {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  width: auto;
+  height: auto;
+  padding: 0;
+}
+
+.container__text-input img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
